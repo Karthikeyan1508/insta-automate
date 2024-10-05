@@ -9,8 +9,8 @@ from selenium.webdriver.common.by import By
 import time
 
 # User credentials and URLs
-username = "karthikeyan.1508"
-password = "Karthi@369#keyan"
+username = ""
+password = ""
 url = "https://www.instagram.com/"
 
 def setup_browser():
